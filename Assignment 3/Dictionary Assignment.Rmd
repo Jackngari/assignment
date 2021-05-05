@@ -1,0 +1,24 @@
+---
+title: "Dictionary Assignment"
+output: pdf_document
+---
+
+#DICTIONARY
+
+_Dictionary_ is a data structure that consists of a **Key** that is assigned a **value**,Keys are immutable data types that can be either strings or numbers.
+
+*Dictionaries are used to store data values in key:value pairs.
+
+*A dictionary is a collection which is ordered,changeable meaning that you can add or remove a value and does not allow duplicates.
+
+For more information about Dictionary click [here](https://www.datacamp.com/community/tutorials/dictionary-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377095&utm_targetid=aud-299261629614:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1012087&gclid=Cj0KCQjw1a6EBhC0ARIsAOiTkrFFLqmK0CDX9FMpBxcQq0VJLA29F9WqRmqogYmHWS2EStZnnGB9_GYaAsG9EALw_wcB).
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
